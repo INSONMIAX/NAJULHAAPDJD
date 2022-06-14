@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d66a4ac8-80ee-413f-bfd4-039057292f3c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.aula 1 p.d.j/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.aula 1 p.d.j/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/script novo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/script novo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/input/GameControl.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/input/GameControl.inputactions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/input/GameControl.inputactions.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/input/GameControl.inputactions.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/cena nova teste.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/cena nova teste.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,9 @@
       <option name="presentableId" value="Default" />
       <updated>1651603058914</updated>
       <workItem from="1651603324451" duration="263000" />
-      <workItem from="1653423321429" duration="4918000" />
+      <workItem from="1653423321429" duration="5214000" />
+      <workItem from="1653429878919" duration="57000" />
+      <workItem from="1655234600291" duration="1159000" />
     </task>
     <servers />
   </component>
