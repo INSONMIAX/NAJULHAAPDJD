@@ -55,6 +55,12 @@ public class PlayerController : MonoBehaviour
             // atribuir ao moveimput o valor proveniente ao input do jogador com um vector2
             _moveInput = obj.ReadValue<Vector2>();
         }
+
+        if (obj.action.name.CompareTo(_gameControl.Gameplay.Jump.name) == 0)
+        {
+            if(obj.performed) Jump();
+        }
+            
     }
     
     private void Move()
